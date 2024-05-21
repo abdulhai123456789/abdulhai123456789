@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @abdulhai123456789
+- 👀 I’m interested in web and mobile app development
+- 🌱 I’m currently learning matric class
