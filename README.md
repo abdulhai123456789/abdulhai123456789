@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhai123456789&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhai123456789" /> </p>
-
+<img scr="![image](https://github.com/abdulhai123456789/abdulhai123456789/assets/153994789/37189cd2-16ab-426a-8730-569000992717)
+">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhai123456789" alt="abdulhai123456789" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
