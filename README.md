@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm abdul hai</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<p align="right"> <img src="![img](https://github.com/abdulhai123456789/abdulhai123456789/assets/153994789/b9f36a33-cf15-4519-bc08-535bfcd3e411)
+" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhai123456789&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhai123456789" /> </p>
  <p align="right"><img scr="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhai123456789" alt="abdulhai123456789" /></a> </p>
